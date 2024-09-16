@@ -1,0 +1,15 @@
+C:\Users\samue\RiderProjects\GuessingGameC\GuessingGameC\bin\Debug\net8.0\GuessingGameC.exe
+C:\Users\samue\RiderProjects\GuessingGameC\GuessingGameC\bin\Debug\net8.0\GuessingGameC.deps.json
+C:\Users\samue\RiderProjects\GuessingGameC\GuessingGameC\bin\Debug\net8.0\GuessingGameC.runtimeconfig.json
+C:\Users\samue\RiderProjects\GuessingGameC\GuessingGameC\bin\Debug\net8.0\GuessingGameC.dll
+C:\Users\samue\RiderProjects\GuessingGameC\GuessingGameC\bin\Debug\net8.0\GuessingGameC.pdb
+C:\Users\samue\RiderProjects\GuessingGameC\GuessingGameC\obj\Debug\net8.0\GuessingGameC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samue\RiderProjects\GuessingGameC\GuessingGameC\obj\Debug\net8.0\GuessingGameC.AssemblyInfoInputs.cache
+C:\Users\samue\RiderProjects\GuessingGameC\GuessingGameC\obj\Debug\net8.0\GuessingGameC.AssemblyInfo.cs
+C:\Users\samue\RiderProjects\GuessingGameC\GuessingGameC\obj\Debug\net8.0\GuessingGameC.csproj.CoreCompileInputs.cache
+C:\Users\samue\RiderProjects\GuessingGameC\GuessingGameC\obj\Debug\net8.0\GuessingGameC.sourcelink.json
+C:\Users\samue\RiderProjects\GuessingGameC\GuessingGameC\obj\Debug\net8.0\GuessingGameC.dll
+C:\Users\samue\RiderProjects\GuessingGameC\GuessingGameC\obj\Debug\net8.0\refint\GuessingGameC.dll
+C:\Users\samue\RiderProjects\GuessingGameC\GuessingGameC\obj\Debug\net8.0\GuessingGameC.pdb
+C:\Users\samue\RiderProjects\GuessingGameC\GuessingGameC\obj\Debug\net8.0\GuessingGameC.genruntimeconfig.cache
+C:\Users\samue\RiderProjects\GuessingGameC\GuessingGameC\obj\Debug\net8.0\ref\GuessingGameC.dll
